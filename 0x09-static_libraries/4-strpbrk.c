@@ -18,5 +18,6 @@ return (s);
 }
 s++;
 }
+
 return ('\0');
 }
